@@ -44,14 +44,3 @@ lib/
    ```bash
    flutter run
    ```
-
-## Documentation
-
-- [Architecture Guide](docs/ARCHITECTURE.md)
-- [Atomic Design Structure](docs/ATOMIC_DESIGN_STRUCTURE.md)
-- [Templates Documentation](docs/TEMPLATES_DOCUMENTATION.md)
-- [API Integration](docs/INTEGRATION_GUIDE.md)
-
----
-
-**Made with Flutter** 💙
